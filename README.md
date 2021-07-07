@@ -1,7 +1,7 @@
 # miniblog
 #Steps to run the project
 
-Install Python in your system
-Create a virtual Environment
-Clone the repository and download the requirements using "pip install -r req.txt"
-Run server "python manage.py runserver"
+1. Install Python in your system
+2. Create a virtual Environment
+3. Clone the repository and download the requirements using "pip install -r req.txt"
+4. Run server "python manage.py runserver"
